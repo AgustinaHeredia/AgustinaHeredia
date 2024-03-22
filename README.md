@@ -10,11 +10,18 @@ And to become a good programmer, I started studying at IT Adademy from Barcelona
 
 ##  💻 I’m currently learning in [42Barcelona](https://www.42barcelona.com/es)  :42:
 
+![c](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/7cd8773e-8997-4aa9-b9d7-92de0b06ae3c)
+![c++](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/82eb63dd-ff84-4650-af52-0df6b3e80548)
+![python](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/9abecde9-6f95-4721-ad43-fd2099a079ac)
+![html](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/2aab85e6-3938-4869-9634-d0e3bda303c1)
+![mysql](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/afcf0f3f-38a5-4b2a-a361-cd3df37bc2fa)
+![php](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/bc45a6cf-0add-4e5a-87db-e77d83a92bca)
 
 
 
 
-##Projects
+
+## Projects
 
 [Libft](https://github.com/AgustinaHeredia/libft42): project that replicates all functions of the C library
 
@@ -31,7 +38,7 @@ And to become a good programmer, I started studying at IT Adademy from Barcelona
 [Minishell](https://github.com/lulubas/minishell): this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
 
 
-##Contact me
+## Contact me
 
 [Linkedin](https://www.linkedin.com/in/agustina-heredia/)
 
