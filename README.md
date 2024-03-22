@@ -10,34 +10,30 @@ And to become a good programmer, I started studying at IT Adademy from Barcelona
 
 ##  💻 I’m currently learning in [42Barcelona](https://www.42barcelona.com/es)  :42:
 
-![c](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/f973622e-4864-4b8f-88e4-3ddcdac576ad)
-![c++](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/b74ff83a-1f0a-4974-9ae2-1387cc13130a)
-![java](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/354cbe7f-969c-464c-b323-65727dd2ff56)
-![descarga](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/02331fb2-96f5-4b1d-bbe6-8ba0a474d963)
-![python](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/d0286fc9-f458-45fe-a812-9793587c2a10)
+
 
 
 
 ##Projects
 
-[Libft]: project that replicates all functions of the C library
+[Libft](https://github.com/AgustinaHeredia/libft42): project that replicates all functions of the C library
 
-[Ft_printf]: program that replicates printf
+[Ft_printf](https://github.com/AgustinaHeredia/printf_42): program that replicates printf
 
-[Get next line]: project that reads from file descriptor line by line
+[Get next line](https://github.com/AgustinaHeredia/getnextline_42): project that reads from file descriptor line by line
 
 [So_long]: 2D videogame
 
-[Push_swap]: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
+[Push_swap](https://github.com/AgustinaHeredia/push_swap): project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
 
-[Pipex]: data exchange program using UNIX signals
+[Pipex](https://github.com/AgustinaHeredia/pipex) : data exchange program using UNIX signals
 
-[Minishell]: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
+[Minishell](https://github.com/lulubas/minishell): this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
 
 
 ##Contact me
 
- https://www.linkedin.com/in/agustina-heredia/
+[Linkedin](https://www.linkedin.com/in/agustina-heredia/)
 
 ✉️ agheredi@student.42barcelona.com
--->
+
