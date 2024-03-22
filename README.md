@@ -1,6 +1,6 @@
 ### Hello, my name is Agustina. 🤓
 
-![women developer](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/db1e20bc-86a1-4ee2-bdb9-137f88c47cca){width=50%}
+![women developer](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/db1e20bc-86a1-4ee2-bdb9-137f88c47cca{width=50%})
 
 
 I am a female programmer.
