@@ -10,15 +10,6 @@ And to become a good programmer, I started studying at IT Adademy from Barcelona
 
 ##  💻 I’m currently learning in [42Barcelona](https://www.42barcelona.com/es)  :42:
 
-![c](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/7cd8773e-8997-4aa9-b9d7-92de0b06ae3c)
-![c++](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/82eb63dd-ff84-4650-af52-0df6b3e80548)
-![python](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/9abecde9-6f95-4721-ad43-fd2099a079ac)
-![html](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/2aab85e6-3938-4869-9634-d0e3bda303c1)
-![mysql](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/afcf0f3f-38a5-4b2a-a361-cd3df37bc2fa)
-![php](https://github.com/AgustinaHeredia/AgustinaHeredia/assets/119814051/bc45a6cf-0add-4e5a-87db-e77d83a92bca)
-
-
-
 
 
 ## Projects
