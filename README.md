@@ -20,13 +20,19 @@ And to become a good programmer, I started studying at IT Adademy from Barcelona
 
 ##Projects
 
-Libft: project that replicates all functions of the C library
-Ft_printf: program that replicates printf
-Get next line: project that reads from file descriptor line by line
-So_long: 2D videogame
-Push_swap: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
-Pipex: data exchange program using UNIX signals
-Minishell: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
+[Libft]: project that replicates all functions of the C library
+
+[Ft_printf]: program that replicates printf
+
+[Get next line]: project that reads from file descriptor line by line
+
+[So_long]: 2D videogame
+
+[Push_swap]: project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
+
+[Pipex]: data exchange program using UNIX signals
+
+[Minishell]: this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
 
 
 ##Contact me
