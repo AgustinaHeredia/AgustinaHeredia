@@ -8,6 +8,10 @@ When I was young, I didn't want to be a programmer, but in 2021 I discovered tha
 
 And to become a good programmer, I started studying at IT Adademy from Barcelona Activa, a Java Backend Bootcamp, and once finished, since 2023 I have been a student at 42 Barcelona.
 
+## languages and tools:
+
+Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git - Indesing - Ilustrator - Photoshop
+
 ##  💻 I’m currently learning in [42Barcelona](https://www.42barcelona.com/es)  :42:
 
 
