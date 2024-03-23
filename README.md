@@ -16,7 +16,7 @@ Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git -
 
 
 
-## Projects
+## Last Projects
 
 [Libft](https://github.com/AgustinaHeredia/libft42): project that replicates all functions of the C library
 
