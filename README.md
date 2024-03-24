@@ -24,7 +24,7 @@ Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git -
 
 [Get next line](https://github.com/AgustinaHeredia/getnextline_42): project that reads from file descriptor line by line
 
-[So_long]: 2D videogame
+[So_long](https://github.com/AgustinaHeredia/so_long): 2D videogame
 
 [Push_swap](https://github.com/AgustinaHeredia/push_swap): project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
 
