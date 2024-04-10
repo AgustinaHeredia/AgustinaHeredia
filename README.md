@@ -30,7 +30,7 @@ Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git -
 
 [Pipex](https://github.com/AgustinaHeredia/pipex) : data exchange program using UNIX signals
 
-[Minishell](https://github.com/lulubas/minishell): this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
+[Minishell](https://github.com/AgustinaHeredia/minishell42): this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
 
 
 ## Contact me
