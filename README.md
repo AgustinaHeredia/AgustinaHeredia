@@ -16,22 +16,26 @@ Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git -
 
 
 
-## Last Projects
+## Last Projects in 42
 
-[Libft](https://github.com/AgustinaHeredia/libft42): project that replicates all functions of the C library
-
-[Ft_printf](https://github.com/AgustinaHeredia/printf_42): program that replicates printf
-
-[Get next line](https://github.com/AgustinaHeredia/getnextline_42): project that reads from file descriptor line by line
-
-[So_long](https://github.com/AgustinaHeredia/so_long): 2D videogame
-
-[Push_swap](https://github.com/AgustinaHeredia/push_swap): project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
-
-[Pipex](https://github.com/AgustinaHeredia/pipex) : data exchange program using UNIX signals
+[Philosopher](https://github.com/AgustinaHeredia/philosophers): The project simulates the classic problem of the dining philosophers, a metaphor that illustrates the challenges in concurrent programming, such as avoiding starvation and preventing deadlocks.
 
 [Minishell](https://github.com/AgustinaHeredia/minishell42): this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
 
+[Pipex](https://github.com/AgustinaHeredia/pipex) : data exchange program using UNIX signals
+
+[Push_swap](https://github.com/AgustinaHeredia/push_swap): project to sort numbers in a stack, with a limited set of instructions in the smallest number of moves, using a sorting algorithm
+
+[So_long](https://github.com/AgustinaHeredia/so_long): 2D videogame
+
+[Get next line](https://github.com/AgustinaHeredia/getnextline_42): project that reads from file descriptor line by line
+
+[Ft_printf](https://github.com/AgustinaHeredia/printf_42): program that replicates printf
+
+[Libft](https://github.com/AgustinaHeredia/libft42): project that replicates all functions of the C library
+
+## Personal Proyects
+[Overdrive](https://github.com/AgustinaHeredia/overdrive): The Overdrive Emulator is a personal project written in Python. It processes input files and emulates the behavior of the Overdrive system. This emulator includes a simple frontend that can be executed to provide a graphical interface for easier interaction and testing.
 
 ## Contact me
 
