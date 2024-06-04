@@ -18,6 +18,8 @@ Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git -
 
 ## Last Projects in 42
 
+[Cub3D](https://github.com/AgustinaHeredia/cube3d): Cub3d is a 3D raycasting game inspired by Wolfenstein 3D. This project is developed in C using the MiniLibX graphics library. The objective is to explore a maze and survive the enemies.
+
 [Philosopher](https://github.com/AgustinaHeredia/philosophers): The project simulates the classic problem of the dining philosophers, a metaphor that illustrates the challenges in concurrent programming, such as avoiding starvation and preventing deadlocks.
 
 [Minishell](https://github.com/AgustinaHeredia/minishell42): this project included features like user prompts, command history, and executing programs based on PATH. It managed advanced functions like quotes, redirections, and environment variable expansion. The project also implemented essential built-in commands, signal handling, and memory management to prevent errors.
