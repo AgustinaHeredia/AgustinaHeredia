@@ -17,6 +17,9 @@ Java - Spring Boots - C - C++ - Html - Python - MySQL - MongoDB - Kotlin - Git -
 
 
 ## Last Projects in 42
+[ft_irc](https://github.com/AgustinaHeredia/ft_irc): Create your own IRC server in C++, fully compatible with an official client..
+
+[Inception](https://github.com/AgustinaHeredia/inception): This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine.
 
 [Cub3D](https://github.com/AgustinaHeredia/cube3d): Cub3d is a 3D raycasting game inspired by Wolfenstein 3D. This project is developed in C using the MiniLibX graphics library. The objective is to explore a maze and survive the enemies.
 
